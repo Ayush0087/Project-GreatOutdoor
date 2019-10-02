@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{E80C7834-B31B-4492-A262-70ABC6466844}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <RootNamespace>GreatOutdoors.Presentation</RootNamespace>
+    <AssemblyName>GreatOutdoors.Presentation</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <LangVersion>7.1</LangVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AddressPresentation.cs" />
+    <Compile Include="AdminPresentation.cs" />
+    <Compile Include="CommonData.cs" />
+    <Compile Include="OnlineReturnPresentation.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RetailerPresentation.cs" />
+    <Compile Include="RetailerProductPresentation.cs" />
+    <Compile Include="SalesPersonPresentation.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\GreatOutdoor.BusinessLayer\GreatOutdoor.BusinessLayer.csproj">
+      <Project>{8a1b241f-6784-4caa-b94b-d35b0f397eae}</Project>
+      <Name>GreatOutdoor.BusinessLayer</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\GreatOutdoor.Entities\GreatOutdoor.Entities.csproj">
+      <Project>{35ea939c-5167-4a98-b35f-ee86c498a25b}</Project>
+      <Name>GreatOutdoor.Entities</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\GreatOutdoor.Exceptions\GreatOutdoor.Exceptions.csproj">
+      <Project>{a84221fc-17f1-4d0d-a028-09706ee6f784}</Project>
+      <Name>GreatOutdoor.Exceptions</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\GreatOutdoors.Contracts\GreatOutdoor.Contracts.csproj">
+      <Project>{01753e76-1b6f-4b9b-afb6-2ddfb46610d7}</Project>
+      <Name>GreatOutdoor.Contracts</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\GreatOutdoors.Helpers\GreatOutdoor.Helpers.csproj">
+      <Project>{6d40688d-42d4-40fc-aa73-d6b5d7a119ca}</Project>
+      <Name>GreatOutdoor.Helpers</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
