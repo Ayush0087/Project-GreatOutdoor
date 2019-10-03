@@ -1,0 +1,23 @@
+C:\Users\prafshar\Desktop\New folder\GreatOutdoor.Presentation\GreatOutdoor.BusinessLayer\obj\Debug\GreatOutdoor.BusinessLayer.csprojAssemblyReference.cache
+C:\Users\prafshar\Desktop\New folder\GreatOutdoor.Presentation\GreatOutdoor.BusinessLayer\obj\Debug\GreatOutdoor.BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\prafshar\Desktop\New folder\GreatOutdoor.Presentation\GreatOutdoor.BusinessLayer\bin\Debug\GreatOutdoor.BusinessLayer.dll
+C:\Users\prafshar\Desktop\New folder\GreatOutdoor.Presentation\GreatOutdoor.BusinessLayer\bin\Debug\GreatOutdoor.BusinessLayer.pdb
+C:\Users\prafshar\Desktop\New folder\GreatOutdoor.Presentation\GreatOutdoor.BusinessLayer\bin\Debug\GreatOutdoor.Contracts.dll
+C:\Users\prafshar\Desktop\New folder\GreatOutdoor.Presentation\GreatOutdoor.BusinessLayer\bin\Debug\GreatOutdoor.DataAccessLayer.dll
+C:\Users\prafshar\Desktop\New folder\GreatOutdoor.Presentation\GreatOutdoor.BusinessLayer\bin\Debug\GreatOutdoor.Entities.dll
+C:\Users\prafshar\Desktop\New folder\GreatOutdoor.Presentation\GreatOutdoor.BusinessLayer\bin\Debug\GreatOutdoor.Exceptions.dll
+C:\Users\prafshar\Desktop\New folder\GreatOutdoor.Presentation\GreatOutdoor.BusinessLayer\bin\Debug\GreatOutdoor.Helpers.dll
+C:\Users\prafshar\Desktop\New folder\GreatOutdoor.Presentation\GreatOutdoor.BusinessLayer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\prafshar\Desktop\New folder\GreatOutdoor.Presentation\GreatOutdoor.BusinessLayer\bin\Debug\GreatOutdoor.Contracts.pdb
+C:\Users\prafshar\Desktop\New folder\GreatOutdoor.Presentation\GreatOutdoor.BusinessLayer\bin\Debug\GreatOutdoor.DataAccessLayer.pdb
+C:\Users\prafshar\Desktop\New folder\GreatOutdoor.Presentation\GreatOutdoor.BusinessLayer\bin\Debug\GreatOutdoor.Entities.pdb
+C:\Users\prafshar\Desktop\New folder\GreatOutdoor.Presentation\GreatOutdoor.BusinessLayer\bin\Debug\GreatOutdoor.Exceptions.pdb
+C:\Users\prafshar\Desktop\New folder\GreatOutdoor.Presentation\GreatOutdoor.BusinessLayer\bin\Debug\GreatOutdoor.Helpers.pdb
+C:\Users\prafshar\Desktop\New folder\GreatOutdoor.Presentation\GreatOutdoor.BusinessLayer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\prafshar\Desktop\New folder\GreatOutdoor.Presentation\GreatOutdoor.BusinessLayer\obj\Debug\GreatOutdoor.BusinessLayer.csproj.CopyComplete
+C:\Users\prafshar\Desktop\New folder\GreatOutdoor.Presentation\GreatOutdoor.BusinessLayer\obj\Debug\GreatOutdoor.BusinessLayer.dll
+C:\Users\prafshar\Desktop\New folder\GreatOutdoor.Presentation\GreatOutdoor.BusinessLayer\obj\Debug\GreatOutdoor.BusinessLayer.pdb
+C:\Users\prafshar\Desktop\New folder\GreatOutdoor.Presentation\GreatOutdoor.BusinessLayer\bin\Debug\System.ValueTuple.dll
+C:\Users\prafshar\Desktop\New folder\GreatOutdoor.Presentation\GreatOutdoor.BusinessLayer\bin\Debug\System.ValueTuple.xml
+C:\Users\Utkarsh\Desktop\GreatOutdoor.Presentation\GreatOutdoor.BusinessLayer\obj\Debug\GreatOutdoor.BusinessLayer.dll
+C:\Users\Utkarsh\Desktop\GreatOutdoor.Presentation\GreatOutdoor.BusinessLayer\obj\Debug\GreatOutdoor.BusinessLayer.pdb

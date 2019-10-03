@@ -1,0 +1,13 @@
+C:\Users\prafshar\Desktop\New folder\GreatOutdoor.Presentation\GreatOutdoor.Helpers\bin\Debug\GreatOutdoor.Helpers.dll
+C:\Users\prafshar\Desktop\New folder\GreatOutdoor.Presentation\GreatOutdoor.Helpers\bin\Debug\GreatOutdoor.Helpers.pdb
+C:\Users\prafshar\Desktop\New folder\GreatOutdoor.Presentation\GreatOutdoor.Helpers\bin\Debug\Newtonsoft.Json.dll
+C:\Users\prafshar\Desktop\New folder\GreatOutdoor.Presentation\GreatOutdoor.Helpers\bin\Debug\Newtonsoft.Json.xml
+C:\Users\prafshar\Desktop\New folder\GreatOutdoor.Presentation\GreatOutdoor.Helpers\obj\Debug\GreatOutdoor.Helpers.csproj.CoreCompileInputs.cache
+C:\Users\prafshar\Desktop\New folder\GreatOutdoor.Presentation\GreatOutdoor.Helpers\obj\Debug\GreatOutdoor.Helpers.csproj.CopyComplete
+C:\Users\prafshar\Desktop\New folder\GreatOutdoor.Presentation\GreatOutdoor.Helpers\obj\Debug\GreatOutdoor.Helpers.dll
+C:\Users\prafshar\Desktop\New folder\GreatOutdoor.Presentation\GreatOutdoor.Helpers\obj\Debug\GreatOutdoor.Helpers.pdb
+C:\Users\prafshar\Desktop\New folder\GreatOutdoor.Presentation\GreatOutdoor.Helpers\bin\Debug\System.ValueTuple.dll
+C:\Users\prafshar\Desktop\New folder\GreatOutdoor.Presentation\GreatOutdoor.Helpers\bin\Debug\System.ValueTuple.xml
+C:\Users\prafshar\Desktop\New folder\GreatOutdoor.Presentation\GreatOutdoor.Helpers\obj\Debug\GreatOutdoor.Helpers.csprojAssemblyReference.cache
+C:\Users\Utkarsh\Desktop\GreatOutdoor.Presentation\GreatOutdoor.Helpers\obj\Debug\GreatOutdoor.Helpers.dll
+C:\Users\Utkarsh\Desktop\GreatOutdoor.Presentation\GreatOutdoor.Helpers\obj\Debug\GreatOutdoor.Helpers.pdb

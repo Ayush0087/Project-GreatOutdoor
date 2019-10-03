@@ -1,0 +1,13 @@
+C:\Users\prafshar\Desktop\New folder\GreatOutdoor.Presentation\GreatOutdoor.Exceptions\bin\Debug\GreatOutdoor.Exceptions.dll
+C:\Users\prafshar\Desktop\New folder\GreatOutdoor.Presentation\GreatOutdoor.Exceptions\bin\Debug\GreatOutdoor.Exceptions.pdb
+C:\Users\prafshar\Desktop\New folder\GreatOutdoor.Presentation\GreatOutdoor.Exceptions\bin\Debug\Newtonsoft.Json.dll
+C:\Users\prafshar\Desktop\New folder\GreatOutdoor.Presentation\GreatOutdoor.Exceptions\bin\Debug\Newtonsoft.Json.xml
+C:\Users\prafshar\Desktop\New folder\GreatOutdoor.Presentation\GreatOutdoor.Exceptions\obj\Debug\GreatOutdoor.Exceptions.csprojAssemblyReference.cache
+C:\Users\prafshar\Desktop\New folder\GreatOutdoor.Presentation\GreatOutdoor.Exceptions\obj\Debug\GreatOutdoor.Exceptions.csproj.CoreCompileInputs.cache
+C:\Users\prafshar\Desktop\New folder\GreatOutdoor.Presentation\GreatOutdoor.Exceptions\obj\Debug\GreatOutdoor.Exceptions.csproj.CopyComplete
+C:\Users\prafshar\Desktop\New folder\GreatOutdoor.Presentation\GreatOutdoor.Exceptions\obj\Debug\GreatOutdoor.Exceptions.dll
+C:\Users\prafshar\Desktop\New folder\GreatOutdoor.Presentation\GreatOutdoor.Exceptions\obj\Debug\GreatOutdoor.Exceptions.pdb
+C:\Users\prafshar\Desktop\New folder\GreatOutdoor.Presentation\GreatOutdoor.Exceptions\bin\Debug\System.ValueTuple.dll
+C:\Users\prafshar\Desktop\New folder\GreatOutdoor.Presentation\GreatOutdoor.Exceptions\bin\Debug\System.ValueTuple.xml
+C:\Users\Utkarsh\Desktop\GreatOutdoor.Presentation\GreatOutdoor.Exceptions\obj\Debug\GreatOutdoor.Exceptions.dll
+C:\Users\Utkarsh\Desktop\GreatOutdoor.Presentation\GreatOutdoor.Exceptions\obj\Debug\GreatOutdoor.Exceptions.pdb

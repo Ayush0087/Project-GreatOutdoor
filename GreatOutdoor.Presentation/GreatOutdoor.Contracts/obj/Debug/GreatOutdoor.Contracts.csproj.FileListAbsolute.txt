@@ -1,0 +1,17 @@
+C:\Users\prafshar\Desktop\New folder\GreatOutdoor.Presentation\GreatOutdoor.Contracts\obj\Debug\GreatOutdoor.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\prafshar\Desktop\New folder\GreatOutdoor.Presentation\GreatOutdoor.Contracts\obj\Debug\GreatOutdoor.Contracts.csprojAssemblyReference.cache
+C:\Users\prafshar\Desktop\New folder\GreatOutdoor.Presentation\GreatOutdoor.Contracts\bin\Debug\GreatOutdoor.Contracts.dll
+C:\Users\prafshar\Desktop\New folder\GreatOutdoor.Presentation\GreatOutdoor.Contracts\bin\Debug\GreatOutdoor.Contracts.pdb
+C:\Users\prafshar\Desktop\New folder\GreatOutdoor.Presentation\GreatOutdoor.Contracts\bin\Debug\GreatOutdoor.Entities.dll
+C:\Users\prafshar\Desktop\New folder\GreatOutdoor.Presentation\GreatOutdoor.Contracts\bin\Debug\GreatOutdoor.Helpers.dll
+C:\Users\prafshar\Desktop\New folder\GreatOutdoor.Presentation\GreatOutdoor.Contracts\bin\Debug\Newtonsoft.Json.dll
+C:\Users\prafshar\Desktop\New folder\GreatOutdoor.Presentation\GreatOutdoor.Contracts\bin\Debug\GreatOutdoor.Entities.pdb
+C:\Users\prafshar\Desktop\New folder\GreatOutdoor.Presentation\GreatOutdoor.Contracts\bin\Debug\GreatOutdoor.Helpers.pdb
+C:\Users\prafshar\Desktop\New folder\GreatOutdoor.Presentation\GreatOutdoor.Contracts\bin\Debug\Newtonsoft.Json.xml
+C:\Users\prafshar\Desktop\New folder\GreatOutdoor.Presentation\GreatOutdoor.Contracts\obj\Debug\GreatOutdoor.Contracts.csproj.CopyComplete
+C:\Users\prafshar\Desktop\New folder\GreatOutdoor.Presentation\GreatOutdoor.Contracts\obj\Debug\GreatOutdoor.Contracts.dll
+C:\Users\prafshar\Desktop\New folder\GreatOutdoor.Presentation\GreatOutdoor.Contracts\obj\Debug\GreatOutdoor.Contracts.pdb
+C:\Users\prafshar\Desktop\New folder\GreatOutdoor.Presentation\GreatOutdoor.Contracts\bin\Debug\System.ValueTuple.dll
+C:\Users\prafshar\Desktop\New folder\GreatOutdoor.Presentation\GreatOutdoor.Contracts\bin\Debug\System.ValueTuple.xml
+C:\Users\Utkarsh\Desktop\GreatOutdoor.Presentation\GreatOutdoor.Contracts\obj\Debug\GreatOutdoor.Contracts.dll
+C:\Users\Utkarsh\Desktop\GreatOutdoor.Presentation\GreatOutdoor.Contracts\obj\Debug\GreatOutdoor.Contracts.pdb
